@@ -27,7 +27,7 @@ public class App {
         vuelo2.desembarcar("A2");
         vuelo2.mostrarAsientos();
         // tercer vuelo
-        Vuelo vuelo3 = new Vuelo("3","Cucuta","Ibague",8);
+        Vuelo vuelo3 = new Vuelo("3","Cucuta","Ibague",8);git
         vuelo3.mostrarInfo();
         vuelo3.embarcar("A4");
         vuelo3.embarcar("A6");
